@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Desktop/未命名1.png</file>
+        <file alias="tu1">../../Desktop/未命名2.png</file>
+        <file alias="tu2">../../Desktop/未命名3.png</file>
+        <file>../../Desktop/未命名4.png</file>
+        <file alias="qss">../../Desktop/软件工程/素材/test.qss</file>
+    </qresource>
+</RCC>
